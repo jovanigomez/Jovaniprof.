@@ -1,18 +1,21 @@
 .body{
-    background-color: rgb(72, 117, 129);
+    background-color: rgb(161, 156, 155);
+
 }
 
 .h3 {
-    color: rgb(183, 234, 13);
-   text-decoration: aquamarine;
+    color: rgb(206, 11, 250);
+   text-decoration: rgb(214, 255, 127);
+   display: inline-block;
    
 }
 
 .header{
-    padding: 20px;
+    padding: 4px;
+    text-align: left;
     text-align: center;
-    background: rgb(17, 124, 162);
-    color: rgb(39, 44, 45);
+    background: rgb(83, 126, 185);
+    color: white;
 }
 
 .header div {
@@ -28,19 +31,14 @@
 }
 
 .header div ul li {
-    display: inline-block;
-    margin-left: 25px;
+    display: right;
+    margin-right: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
+ ul li {
+ display: flex;
+ justify-content: flex-end;
+ display: inline-flex;
+ margin-right: auto;
+ 
 }
-
-p {
-    font-size: 16px;
-}
-
-
-
-
