@@ -1,21 +1,22 @@
-.body{
-    background-color: rgb(161, 156, 155);
+body{
+    background: rgba(255, 255, 255, 0.994);
 
 }
 
 .h3 {
-    color: rgb(206, 11, 250);
-   text-decoration: rgb(214, 255, 127);
+    color: none;
+   text-decoration: none;
    display: inline-block;
    
 }
 
 .header{
-    padding: 4px;
+    padding: 4px 20px 4px ;
+    width: auto;
     text-align: left;
    
-    background: rgb(83, 126, 185);
-    color: white;
+    background: rgba(129, 132, 137, 0.835);
+    color: rgb(255, 255, 255);
 }
 
 .header div {
@@ -35,10 +36,50 @@
     margin-right: 25px;
 }
 
+div {
+    background: none;
+}
+
  ul li {
  display: flex;
  justify-content: flex-end;
  display: inline-flex;
  margin-right: auto;
  
+}
+
+.about-me {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 200px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(170, 170, 171);
+    color: rgb(255, 255, 255);
+}
+
+.resume {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 200px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color:rgb(170, 170, 171);
+    color: rgb(255, 255, 255);
+}
+
+.work {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 200px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color:rgb(170, 170, 171);
+    color: rgb(255, 255, 255);
+}
+
+.contact-me {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 200px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color:rgb(170, 170, 171);
+    color: rgb(255, 255, 255);
 }
