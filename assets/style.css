@@ -51,7 +51,7 @@ div {
 .about-me {
     margin-bottom: 20px;
     padding: 50px;
-    height: 200px;
+    height: auto;
     font-family: 'Times New Roman', Times, serif;
     background-color: rgb(170, 170, 171);
     color: rgb(255, 255, 255);
@@ -60,7 +60,7 @@ div {
 .work {
     margin-bottom: 20px;
     padding: 50px;
-    height: 200px;
+    height: auto;
     font-family: 'Times New Roman', Times, serif;
     background-color:rgb(170, 170, 171);
     color: rgb(255, 255, 255);
@@ -69,7 +69,7 @@ div {
 .contact-me {
     margin-bottom: 20px;
     padding: 50px;
-    height: 200px;
+    height: auto;
     font-family: 'Times New Roman', Times, serif;
     background-color:rgb(170, 170, 171);
     color: rgb(255, 255, 255);
